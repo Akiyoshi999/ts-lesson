@@ -43,8 +43,10 @@
 // tupleSample()
 
 // 07.ジェネリック型とポリモーフィズム
-import genericsbasicSample from './generics/basic'
-import genericsAdvancedSample from './generics/advanced'
+// import genericsbasicSample from './generics/basic'
+// import genericsAdvancedSample from './generics/advanced'
 
-genericsbasicSample()
-genericsAdvancedSample()
+// genericsbasicSample()
+// genericsAdvancedSample()
+
+// 08.オブジェクト指向開発
