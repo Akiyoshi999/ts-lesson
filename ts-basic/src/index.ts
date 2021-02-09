@@ -48,5 +48,3 @@
 
 // genericsbasicSample()
 // genericsAdvancedSample()
-
-// 08.オブジェクト指向開発
