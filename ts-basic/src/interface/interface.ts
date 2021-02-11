@@ -76,4 +76,4 @@ class Comic implements Book {
   }
 }
 
-const popularComic = new Comic(200, '鬼滅の刃')
+const popularComic = new Comic(200, '鬼滅の刃', '週刊少年ジャンプ')

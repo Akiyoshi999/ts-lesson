@@ -48,3 +48,12 @@
 
 // genericsbasicSample()
 // genericsAdvancedSample()
+
+// 10.非同期処理
+import callbackSample from './asynchronous/callback'
+import promiseSample from './asynchronous/promis'
+import asysnchAwaitSample from './asynchronous/asysncAwait'
+
+// callbackSample()
+// promiseSample()
+asysnchAwaitSample()
